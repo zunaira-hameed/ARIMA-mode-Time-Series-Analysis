@@ -53,18 +53,3 @@ To analyze historical Ethereum price data and develop a statistical model to acc
 ### 8. Forecasting
 - Forecasted the next **30 days of Ethereum prices**
 - Visualized forecasts with confidence intervals
-
----
-
-## 📷 Sample Visuals
-
-> Include screenshots of:
-- Original vs Forecast graph  
-- ACF & PACF plots  
-- RMSE/MAPE results  
-(You can insert them like: `![Forecast Plot](images/forecast.png)`)
-
----
-
-## 📁 Project Structure
-
